@@ -1,0 +1,199 @@
+<html>
+      
+   <head> 
+
+      <style> 
+
+p1{
+
+
+text-align:center ;
+
+}
+
+
+ </style>
+
+
+
+
+
+
+  </head>
+
+
+      <body   background ="bg1.jpg"    > 
+
+
+ <p1>  <h1>  CHEMISTRY </h1>  <h2>CHAPTER WISE   VIDEO LECTURES</h2>   </p1>
+
+
+  GO TO : 
+
+   <a href="index.html">            <button>   <img src='hom.jpg' height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;
+ 
+
+      >  </button>    </a>
+
+
+       
+         <button>    <a href="page1.html">            <img src='chemistry logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px; >  </button>
+
+
+
+
+
+
+                
+
+
+
+   <button>     <a href="page2.html">           <img src='physics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                
+
+
+
+
+
+
+
+    <button>      <a href="page3.html">         <img src='mathematics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                     
+
+
+
+
+
+
+
+     <button>       <a href="page4.html">         <img src='botany logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;    > </button>
+ 
+
+
+
+
+      <button>        <a href="page5.html">      <img src='zoology logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+ 
+
+
+
+
+
+
+
+    <button>       <a href="page6.html">         <img src='jee crash course.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+
+
+
+                
+
+       <button>        <a href="page7.html">     <img src='neet crash course.png'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+
+
+             
+
+
+
+
+          <button>        <a href="https://www.instagram.com/_u.k.r__/">     <img src='ig.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+
+
+                 
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+           <h2>   tap on the lesson to view video lecture!!!  </h2>
+
+<ol>
+
+<li>   <a href="  https://youtu.be/0mmxbFf05mI  "> <h3> Some Basic Concepts of Chemistry </h3>	 </a>   </li>   <br>   
+
+<li>   <a href=" https://youtu.be/jr5UdNoZ8Oo   "> <h3>   Structure of Atom    </h3>         </a>   </li>  <br>
+
+<li>   <a href=" https://youtu.be/ny3u_-Tiggo ">  <h3>   Classification of Elements and Periodicity in Properties  </h3>  </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/c94MCtNWjGA   "> <h3> Chemical Bonding and Molecular Structure </h3>  </a>   </li>   <br>   
+
+<li>   <a href=" https://youtu.be/9pvUDs2WtxM   "> <h3> States of Matter </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/sPk1h8oYWPw  "> <h3>Thermodynamics	  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/NZycLVr8hvk  "> <h3> Equilibrium </h3>              </a>   </li>  <br>
+
+<li>   <a href=" https://youtu.be/7aPuek8vHZU   "> <h3>Redox Reactions  </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/mqNztFs1c2g   "> <h3>Hydrogen  </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/LL8OSl-L8Ew   "><h3> The s-block Elements	 </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/SHcXQiYMsPA  "> <h3> The p-Block Elements </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/-3qziwXA1-o  "><h3> Organic Chemistry: Some Basic Principles and Techniques  </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/OCfxA3-HKDY  "> <h3> Hydrocarbons </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/fWjWMjZCPVw  "><h3> Environmental Chemistry	. </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/eWi5AmlP4us  "> <h3> Solid State </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/CPqK_no3nDA  "> <h3> Solutions </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/Qpxzj9jju9g  "> <h3> Electrochemistry </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/AYjdgoP_SV0  "><h3> Chemical Kinetics </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/o5tIQwjvkuI  ">  <h3> Surface Chemistry	 </h3>             </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/Bug7fwtZ_z8 "> <h3>  METALLURGY :General Principles and Processes of Isolation of Elements </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/51Pe3Xtdq5w  "> <h3>  p -Block Elements  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/U4PhrvgBz0o  "> <h3> Coordination Compounds </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/NZ3UPhcFA_o ">  <h3> Haloalkanes and Haloarenes </h3>             </a>   </li> <br>
+
+
+
+<li>   <a href="  https://youtu.be/cFAgWrMqrCM  ">  <h3> Aldehydes, Ketones ' Carbonyl comounds	 </h3>             </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/WuObJ05Iooo  ">  <h3> Amines </h3>             </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/eASr8DPNIOg  "> <h3>  Biomolecules	  </h3>              </a>  </li>  <br>
+
+<li>   <a href="  https://youtu.be/St6BiJGidU0  ">  <h3> Polymers </h3>             </a>  </li>  <br>
+
+<li>   <a href=" https://youtu.be/HaLWOmVna34   ">   <h3> Chemistry in Everyday Life </h3>            </a>  </li>  <br>
+
+
+
+
+
+
+
+
+
+
+</ol>
+
+
+
+</div>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,203 @@
+<html>
+      
+   <head> 
+
+      <style> 
+
+p1{
+
+
+text-align:center ;
+
+}
+
+
+      </style>
+
+
+
+  </head>
+
+
+    <p1>  <body   background ="bg8.jpg"    >
+
+<h1> CRASH COURSE for  </h1>  <h2>  JEE <br> MAINS & ADVANCED <br> VIDEO LECTURES</h2>  </p1>
+
+
+  
+      GO TO : 
+
+   <a href="index.html">            <button>   <img src='hom.jpg' height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;
+ 
+
+      >  </button>    </a>
+
+
+       
+         <button>    <a href="page1.html">            <img src='chemistry logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px; >  </button>
+
+
+
+
+
+
+                
+
+
+
+   <button>     <a href="page2.html">           <img src='physics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                
+
+
+
+
+
+
+
+    <button>      <a href="page3.html">         <img src='mathematics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                     
+
+
+
+
+
+
+
+     <button>       <a href="page4.html">         <img src='botany logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;    > </button>
+ 
+
+
+
+
+      <button>        <a href="page5.html">      <img src='zoology logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+ 
+
+
+
+
+
+
+
+    <button>       <a href="page6.html">         <img src='jee crash course.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+
+
+
+                
+
+       <button>        <a href="page7.html">     <img src='neet crash course.png'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+
+
+             
+
+
+
+  <button>        <a href="https://www.instagram.com/_u.k.r__/">     <img src='ig.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+              
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+           <h2>   tap on the lesson to view video lecture!!!  </h2>
+
+<ol>
+
+<h3>JEE MAINS</h3>
+
+<li>   <a href=" https://www.youtube.com/playlist?list=PLCtUyOrCJbxw4xZx68lTh-4R0Ew3rJktA   "> <h3> JEE Main Sprint - Playlist | JEE Main (PCM) | JEE Main Preparation  | Physics , Chemistry , Maths   | | Vedantu JEE </h3>	 </a>   </li>   <br>   
+
+
+
+
+
+<li>   <a href=" https://www.youtube.com/playlist?list=PLLoUziOB0bCSjRh8F8CJBBb51s2BnNwbt   "> <h3> JEE MAINS Crash Course  | Physics | | Doubtnut </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://www.youtube.com/playlist?list=PLLoUziOB0bCQp7y0WiljX-588c3Pph1WJ   "> <h3>JEE MAINS Crash Course  | Chemistry  | | Doubtnut           </h3>          </a>   </li> <br>
+
+<li>   <a href=" https://www.youtube.com/playlist?list=PLLoUziOB0bCQw-oGgDEZUSWB6atW9CFgj   "><h3> JEE MAINS Crash Course  | Maths | | Doubtnut </h3>               </a>   </li> <br>
+ 
+
+
+<li>   <a href=" https://www.youtube.com/watch?v=3AqGPhVIb7M   "> <h3> JEE Mains Maths Tricks #1 | JEE Previous Year Questions </h3>              </a>   </li>  <br>
+
+<li>   <a href=" https://www.youtube.com/watch?v=ibEWESRPuXI   "><h3> JEE Mains Maths Tricks #2 | JEE Previous Year Questions </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=njYgMuIF0dQ  "> <h3> JEE Mains Maths Tricks #3 | JEE Previous Year Questions </h3>              </a>   </li> <br>
+
+
+<li>   <a href="  https://www.youtube.com/watch?v=xnXW0VZqwNo  "><h3>Class 11 Complete Physics Crash Course in one shot using short tricks  </h3>               </a>   </li> <br>
+<li>   <a href="  https://www.youtube.com/watch?v=gQdpp57jV0Q  "><h3> Class 12 Complete Physics Crash Course in one shot using short tricks </h3>               </a>   </li> <br>
+
+
+
+<li>   <a href="  https://www.youtube.com/c/NehaAgrawalMathematicallyInclined/playlists  "><h3> Neha Agrawal Mathematically Inclined  </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://www.youtube.com/playlist?list=PLCtUyOrCJbxycyaD58Jd9aMqQ1ERtL0pQ  "> <h3>MUST WATCH-->  **Shortcut Tricks for JEE Physics - Playlist** | Vamsi Sir | | JEE Main Physics | JEE Advanced Physics | Vedantu JEE </h3>              </a>   </li> <br>
+
+
+<li>   <a href=" https://www.youtube.com/watch?v=4qkRrgz_vnI"> <h3> COMPLETE 80% ORGANIC BY MARATHON CLASSES || ORGANIC||NEET/JEE </h3>              </a>   </li>  <br>
+
+
+
+
+<li>   <a href="  https://www.youtube.com/watch?v=gQpltDnGt9E  ">  <h3> JEE Complete Physics *** </h3>             </a>   </li> <br>
+
+<li>   <a href="   https://www.youtube.com/watch?v=tMSVBRxngaU "> <h3> Solve Pulley Questions in JEE Main Physics Paper | Sample Physics Session by Vamsi Krishna </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=kZa0N2SaFaY  "> <h3>Solve Circuits - Superposition Principle Questions - JEE Physics | JEE Main & Advanced Preparation  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=X2FZpSFYZRk  "><h3> TRICK TO LEARN PERIODIC TABLE!!! Part-1 in Hindi </h3>               </a>   </li> <br>
+
+
+<li>   <a href="  https://www.youtube.com/watch?v=9SJ17nQczpQ  ">  <h3>Atomic Structure In Just 14 Minutes! REVISION - Super Quick !   </h3>             </a>   </li>  <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=ApkSfJQFR5A  "> <h3> Periodic Properties In Just 14 Minutes! - Super Quick Revision </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=ECK6Nxf2CbE  "> <h3> Dipole moment in Chemistry </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://www.youtube.com/watch?v=JecvUq6sJGI  "> <h3> Inorganic Structures Trick |  </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://www.youtube.com/watch?v=QHjXg3TbRRY   ">  <h3>General Organic Chemistry | Complete Theory in One Session  </h3>             </a>   </li> <br>
+
+</ol>
+
+
+<ol>
+
+<h3>JEE ADVANCED</h3>
+
+<li>   <a href=" https://www.youtube.com/playlist?list=PLCtUyOrCJbxyyTpOjst6ABBvlA2VNMg-8   ">  <h3> JEE Advanced Aspire - Playlist | IIT JEE Advanced Preparation | Physics , Chemistry , Maths | | Vedantu JEE </h3>             </a>   </li> <br>
+
+
+
+
+
+
+
+
+</li>
+
+</ol>
+
+
+
+</div>
+
+
+
+
+
+
+</body>
+
+</html>

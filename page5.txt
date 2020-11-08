@@ -1,0 +1,173 @@
+<html>
+      
+   <head> 
+
+      <style> 
+
+p1{
+
+
+text-align:center ;
+
+}
+
+
+      </style>
+
+
+
+  </head>
+
+
+    <p1>  <body   background ="bg5.jpg"    >
+
+<h1> ZOOLOGY  </h1>  <h2>CHAPTER WISE   VIDEO LECTURES</h2>  </p1>
+
+
+  
+     GO TO : 
+
+   <a href="index.html">            <button>   <img src='hom.jpg' height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;
+ 
+
+      >  </button>    </a>
+
+
+       
+         <button>    <a href="page1.html">            <img src='chemistry logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px; >  </button>
+
+
+
+
+
+
+                
+
+
+
+   <button>     <a href="page2.html">           <img src='physics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                
+
+
+
+
+
+
+
+    <button>      <a href="page3.html">         <img src='mathematics logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;     > </button>
+
+                     
+
+
+
+
+
+
+
+     <button>       <a href="page4.html">         <img src='botany logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;    > </button>
+ 
+
+
+
+
+      <button>        <a href="page5.html">      <img src='zoology logo.jpg'    height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+ 
+
+
+
+
+
+
+
+    <button>       <a href="page6.html">         <img src='jee crash course.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       > </button>
+
+
+
+                
+
+       <button>        <a href="page7.html">     <img src='neet crash course.png'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+
+
+             
+
+
+
+  <button>        <a href="https://www.instagram.com/_u.k.r__/">     <img src='ig.jpg'      height=50px ;width =50px ;border-radius= 500px 500px 500px 500px;       >      </button>       </a>
+              
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+           <h2>   tap on the lesson to view video lecture!!!  </h2>
+
+<ol>
+
+<li>   <a href="  https://youtu.be/uWyzhBLgT2Q  "> <h3> Animal kingdom </h3>	       </a>   </li>   <br>   
+
+<li>   <a href="  https://youtu.be/bPIvmgXO0OM  "> <h3>Structural organisation in animal</h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/BLhKBdfy_7I  "> <h3>Biomolecules  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/QXgEiBgiP1A  "> <h3>Digestion and absorption  </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/fjg0TKuR0LU  "> <h3>Breathing and exchange of gases  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/sVOYnZJBmp4  "> <h3>Body fluids and circulation  </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/3sBWEHGLDTI  "><h3>Excretory product and their elimination  </h3>               </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/zNadjLeKfNs   "> <h3>Locomotion and movement  </h3>              </a>   </li>  <br>
+
+<li>   <a href=" https://youtu.be/s8Lnt99NbJo   "><h3> Neural control and coordination </h3>               </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/-kUoE0z7CKQ   "> <h3> Chemical control and integration .</h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/gT2tnhHNpgU  "><h3> Reproduction in organisms </h3>               </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/5MnTkmsGJug  "> <h3>Human reproduction  </h3>              </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/lcWDNfgFNUs   "> <h3> Reproductive health </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/4Iewgtr34j8  "> <h3> Evolution </h3>              </a>   </li> <br>
+
+<li>   <a href="  https://youtu.be/kiVZ1X2EjG4  "><h3> Human health and disease</h3>               </a>   </li> <br>
+
+<li>   <a href=" https://youtu.be/LAmRT_M7VOE   ">  <h3>Strategies for enhancement im food production</h3>             </a>   </li>  <br>
+
+<li>   <a href=" https://youtu.be/aZK2pbVKPkA   "> <h3>Biotechnology principle and processes  </h3>              </a>   </li>  <br>
+
+<li>   <a href="  https://youtu.be/K0gHPx9_tSo  "> <h3>Biotechnology and its application  </h3>              </a>   </li> <br>
+
+
+
+
+
+
+
+
+
+</li>
+
+</ol>
+
+
+
+</div>
+
+
+
+
+
+</body>
+
+</html>
